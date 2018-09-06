@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: lightblue;  
+}
+
+a {
+  color: #00B7FF;
+}
+
+.left{
+  margin-left: 5%;
+
+  
+}
+.right {
+  margin-left: 5%;
+}
+.col{
+  border: solid 1px;
+  background-color: whitesmoke;
+  margin-top: 10px;
+  margin-right: 10px;
+  width: 260px;
+  height: 350px;;
+  float: left;
+  
+}
